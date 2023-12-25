@@ -1,0 +1,40 @@
+.filme{
+    margin-top: 14px;
+}
+
+.filme h1{
+    margin-bottom: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.filme span{
+    font-size: 18px;
+}
+.filme ul{
+    width: 720px;
+}
+
+.filme ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+.filme div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filme div a{
+    text-decoration: none;
+    color: blue;
+    margin-right: 14px;
+}
+
+.nfilm{
+    display: flex;
+    justify-content: center;
+}
